@@ -60,7 +60,7 @@ def get_units(argv):
     inches (in) based on user input via command line arguments
     or via interactive input collection.
     """
-
+    
     # If the user did not specify measurement, use a dummy value
     # to kick off the while loop.
     if len(argv) < 2:
