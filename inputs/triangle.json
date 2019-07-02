@@ -1,0 +1,20 @@
+
+	
+{
+    "triangles": [
+        {	
+	    "height": 2,
+	    "base" : 3,
+	    "sideA": 4,
+	    "sideB": 5
+	},
+	{
+	    "height": 6,
+            "base" : 8,
+            "sideA": 7,
+            "sideB": 10
+	}
+
+    ]
+}
+
